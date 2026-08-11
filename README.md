@@ -68,12 +68,11 @@ A bar chart is created to compare total sales for each product category.
 
 ##1.Sales by Category
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef806987-b74d-470a-88ec-6fa0038d7e97" />
+<img width="721" height="560" alt="image" src="https://github.com/user-attachments/assets/1b279613-6ac8-4a60-b728-72a5a4fa4859" />
 
 ##2.Sales Distribution
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1e4352de-451b-40db-b314-fdfc508ef0a2" />
-
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/8c3c7cbf-4441-4e95-9637-6f04776df8c3" />
 
 ## Conclusion
 
