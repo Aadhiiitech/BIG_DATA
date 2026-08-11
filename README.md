@@ -1,4 +1,5 @@
-# Superstore Data Analysis – Task 1
+# Superstore Data Analysis 
+# Task 1
 
 ## Project Overview
 
@@ -79,8 +80,8 @@ A bar chart is created to compare total sales for each product category.
 The analysis provides a basic understanding of the Superstore dataset. The dataset was inspected, validated, processed, and analyzed to identify category-wise sales performance.
 
 
-
-# TASK 2: RETAIL SALES VISUALIZATION & BUSINESS INSIGHTS
+# --------------------------------------------------------------------------------------------------
+# TASK 2
 
 ## DESCRIPTION
 
